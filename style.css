@@ -1,0 +1,37 @@
+. {
+  margin: 0%;
+  padding: 0%;
+}
+.header {
+  background-image: url("images/homepage.jpg");
+  height: 300px;
+  width: 2000px;
+  background-size: cover;
+  background-position: top;
+}
+.login {
+  margin-top: 30px;
+  margin-left: 520px;
+}
+.btn {
+  margin-top: 130px;
+  border: 1px solid white;
+  padding: 10px 30px;
+  color: yellow;
+  font-family: "verdana", "scans-serif";
+  font-size: 22px;
+  text-decoration: none;
+}
+.registration {
+  margin-top: 10px;
+  margin-left: 550px;
+}
+.btnrg {
+  margin-top: 130px;
+  border: 1px solid white;
+  padding: 10px 30px;
+  color: yellow;
+  font-family: "verdana", "scans-serif";
+  font-size: 22px;
+  text-decoration: none;
+}
