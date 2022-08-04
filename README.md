@@ -151,3 +151,9 @@ password : 123
 ### Feedback list
 
 ![image](https://user-images.githubusercontent.com/77239125/182906442-2f7b595a-b139-4047-a839-eb99baf48a78.png)
+
+#
+
+### Response email got to the client
+
+![screencapture-mail-google-mail-u-0-2022-08-04-19_31_34](https://user-images.githubusercontent.com/77239125/182921114-4d2e0c08-36eb-4520-8d2e-f37898b14f85.png)
